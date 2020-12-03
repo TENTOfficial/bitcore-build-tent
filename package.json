@@ -1,14 +1,14 @@
 {
-  "name": "bitcore-build-snowgem",
+  "name": "bitcore-build-tent",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-snowgem modules'",
+  "description": "A helper for common tasks to build bitcore-tent modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/snowgem/bitcore-build-snowgem"
+    "url": "git://github.com/TENTOfficial/bitcore-build-tent"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snowgem/bitcore-build-snowgem/issues"
+    "url": "https://github.com/TENTOfficial/bitcore-build-tent/issues"
   },
-  "homepage": "https://github.com/snowgem/bitcore-build-snowgem",
+  "homepage": "https://github.com/TENTOfficial/bitcore-build-tent",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
